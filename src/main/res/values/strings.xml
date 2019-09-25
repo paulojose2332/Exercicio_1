@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercicio_1</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="quadrado">Quadrado</string>
+    <string name="circulo">Circulo</string>
+    <string name="avancar">Avançar</string>
+    <string name="title_activity_square">SquareActivity</string>
+    <string name="radius">Raio :</string>
+    <string name="calcCircle">Calcular</string>
+    <string name="radiusValues">Informe o valor</string>
+    <string name="raio">Raio :</string>
+    <string name="homeButtom">Começar novamente</string>
+</resources>
